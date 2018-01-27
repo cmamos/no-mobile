@@ -1,17 +1,4 @@
 # no-mobile
 Prevents image from showing in mobile view
-
-CSS
-@media screen and (max-width: 800px) {
-  #no-mobile {
-    visibility: hidden;
-    clear: both;
-    float: left;
-    margin: 10px auto 5px 20px;
-    width: 28%;
-    display: none;
-  }
-}
-
-HTML example
-<a href="{{ section.settings.logo-ad-link }}" itemprop="url" id="no-mobile">
+I use this in my header (added logo-b that clogs up mobile view)
+I use this for image added to left of slide show on index (added image that clogs up mobile view)

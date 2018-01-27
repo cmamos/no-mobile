@@ -1,6 +1,5 @@
 # no-mobile
 Prevents image from showing in mobile view
-Specifically used for additional images added to header
 
 CSS
 @media screen and (max-width: 800px) {

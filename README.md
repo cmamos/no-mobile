@@ -1,7 +1,8 @@
 # no-mobile
 Prevents image from showing in mobile view
 Specifically used for additional images added to header
-HTML
+
+HTML example
 <a href="{{ section.settings.logo-ad-link }}" itemprop="url" id="no-mobile">
 
 CSS
